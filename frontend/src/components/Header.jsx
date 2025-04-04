@@ -1,7 +1,7 @@
-export default function Header() {
+export default function Header () {
     return (
         <>
-        <h1>Test</h1>
+        <h1 className="text-3xl text-center pt-36 pb-12 font-bold">URL Shortener</h1>
         </>
     )
 }
